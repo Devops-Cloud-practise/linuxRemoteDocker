@@ -50,3 +50,6 @@ User-name is 'thecoder'. Password is, well, 'password'. Just change it in the Do
 Hope it's useful to you! Let me know if there's anything I can do - just create an issue within these pages and I'll try be of help, if I can. Please consider supporting my coffee-habit if you can.
 
 <a href="https://www.buymeacoffee.com/Ghi82pFzV" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+
+Note : Please check the nomachine latest version and MD5hash as exisiting page is no more exist. Please update Dockerfile. Also Vcode pluging is not working please check( RUN code --install-extension patrys.vscode-code-outline). you might have to comment this line. 
